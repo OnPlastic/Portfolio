@@ -1,0 +1,36 @@
+/* Styles for the contact form */
+form.contact-form {
+  max-width: 600px;
+  margin-left: 0; /* Linksbündig ausrichten */
+  margin-right: auto; /* Zentrierung verhindern */
+}
+
+form.contact-form label {
+  display: block;
+  margin-top: 1em;
+  font-family: 'Roboto Mono',monospace;
+}
+
+form.contact-form input, 
+form.contact-form textarea {
+  width: 100%;
+  padding: 0.5em;
+  margin-top: 0.5em;
+  background-color: #f0f0f0; /* Hellgrauer Hintergrund */
+  color: #333; /* Dunkelgraue Textfarbe, die in beiden Modi lesbar ist */
+}
+
+form.contact-form input::placeholder, 
+form.contact-form textarea::placeholder {
+  color: #999; /* Farbe des Platzhaltertexts */
+}
+
+form.contact-form button {
+  display: block;
+  width: 100%;
+  padding: 1em;
+  background-color: #3F51B5; /* Google Indigo Farbe */
+  color: white;
+  border: none;
+  margin-top: 1em;
+}
