@@ -5,6 +5,12 @@ hide:
   - path
 ---
 
+<div class="full-width-background">
+  <div class="profile-container">
+    <a href="your-button-link" class="profile-button">Button Text</a>
+  </div>
+</div>
+
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
