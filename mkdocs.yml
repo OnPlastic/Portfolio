@@ -55,7 +55,6 @@ extra:
     title: Cookie Einstellungen
     description: >-
       Diese Website verwendet Cookies, um sicherzustellen, dass Sie die beste Erfahrung auf dieser Website erhalten. Durch die Nutzung der Website stimmen Sie der Verwendung von Cookies zu. Für mehr Informationen besuchen Sie die <a href="/Portfolio/datenschutzerklaerung/">Datenschutzerklärung</a> dieser Site.
-
   generator: false
   social:
     - icon: simple/mastodon
