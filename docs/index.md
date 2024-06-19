@@ -9,7 +9,7 @@ hide:
 
 <div class="full-width-background"></div>
 <div class="profile-container">
-    <a href="#hans_muster" class="profile-button" onclick="console.log('Button clicked')" style="transform: translate(calc(-50% + 380px), calc(-50% + 40px));">Get in Kontakt</a>
+    <a href="#hans_muster" class="profile-button" onclick="console.log('Button clicked')" style="transform: translate(calc(-50% + 455px), calc(-50% + 190px));">Mein Portfolio</a>
 </div>
 <div class="placeholder"></div>
 

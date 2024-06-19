@@ -30,9 +30,9 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 nav:
-  - About me: index.md
-  - Documentation: documentation.md
-  - Contact: contact.md
+  - Über mich: index.md
+  - Dokumentation: documentation.md
+  - Kontakt: contact.md
   - Impressum: impressum.md
   - Datenschutzerklärung: datenschutzerklaerung.md
 plugins:

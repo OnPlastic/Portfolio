@@ -54,28 +54,21 @@ form.contact-form button {
   
 }
 
-/* Container für den Button 
-.profile-container {
-  position: relative;
-  text-align: center;
-}
-*/
 /* Button */
 .profile-container .profile-button {
   display: inline-block;
-  padding: 10px 20px;
+  padding: 15px 25px;
   background-color: #3F51B5;
   color: white;
   text-decoration: none;
-  border-radius: 5px;
+  font-size: 24px; 
+  border-radius: 4px;
   left: 50%;
   top: 50%;
   z-index: 2;
   transition: background-color 0.3s ease; /* Weiche Farbänderung beim Hover */
   cursor: pointer; /* Zeigt einen Cursor, um die Klickbarkeit anzuzeigen */
-
 }
-
 
 /* Container für den Button */
 .profile-container {
@@ -85,27 +78,9 @@ form.contact-form button {
   pointer-events: aouto;
 }
 
-/* Button */
-/*
-.profile-container .profile-button {
-  display: inline-block;
-  padding: 15px 30px; 
-  background-color: #3F51B5; 
-  color: white;
-  text-decoration: none;
-  font-size: 18px; 
-  font-weight: bold;
-  border-radius: 5px;
-  margin-top: 20px; 
-  transition: background-color 0.3s ease; 
-  position: absolute; 
-  left: 50%; 
-  top: 50%;  
-  transform: translate(-50%, -50%);  
-}
-*/
 .profile-container .profile-button:hover {
   background-color: #303f9f; /* Dunklere Farbe beim Hover */
+  color: #d2dcfc; 
 }
 
 .placeholder {
