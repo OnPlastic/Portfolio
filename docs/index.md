@@ -4,10 +4,10 @@ hide:
   - toc
   - path
 ---
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD041 -->
 
-<div class="full-width-background">
-  
-</div>
+<div class="full-width-background"></div>
 <div class="profile-container">
     <a href="#hans_muster" class="profile-button" onclick="console.log('Button clicked')" style="transform: translate(calc(-50% + 380px), calc(-50% + 40px));">Get in Kontakt</a>
 </div>

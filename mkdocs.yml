@@ -38,7 +38,6 @@ nav:
 plugins:
   - search
 
-
 markdown_extensions:
   - admonition
   - toc: 
@@ -48,17 +47,25 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 extra:
+  consent:
+    actions:
+      - accept
+      - reject
+      - manage
+    title: Cookie Einstellungen
+    description: >- 
+      Diese Website verwendet Cookies, um sicherzustellen, dass Sie die beste Erfahrung auf dieser Website erhalten. Durch die Nutzung der Website stimmen Sie der Verwendung von Cookies zu. Für mehr Informationen besuchen Sie die   <a href="datenschutzerklaerung.md">Datenschutzerklärung</a> dieser Site.
   generator: false
   social:
     - icon: simple/mastodon
       link: https://mastodon.social/@OnPlastic
-      name: sIn on Mastodon
+      name: OnPlastic @Mastodon
     - icon: octicons/mail-16
-      link: mailto:<sIn4all@hotmail.de>
+      link: mailto:<dope.on.plastic@web.de>
     - icon: fontawesome/brands/github
       link: https://github.com/OnPlastic/Portfolio
-      name: sIn on GitHub
-copyright: Copyright &copy; 2024 On Plastic
+      name: OnPlastic @GitHub
+copyright: Copyright &copy; 2024 On Plastic | <a href="#__consent">Cookie Settings</a> 
 repo_url: https://github.com/OnPlastic/Portfolio
 repo_name: GitHub/Portfolio
 extra_css:
