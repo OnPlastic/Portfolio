@@ -42,7 +42,6 @@ form.contact-form button {
   left: 0;
   width: 100%;
   height: 100vh; /* Vollständige Höhe des Viewports */
-
   background-image: url('../images/background-image.jpg');
   background-size: cover;
   background-repeat: no-repeat;
@@ -51,15 +50,16 @@ form.contact-form button {
   display: flex;
   align-items: center;
   justify-content: center;
+  pointer-events: none;
   
 }
 
-/* Container für den Button */
+/* Container für den Button 
 .profile-container {
   position: relative;
   text-align: center;
 }
-
+*/
 /* Button */
 .profile-container .profile-button {
   display: inline-block;
@@ -68,5 +68,46 @@ form.contact-form button {
   color: white;
   text-decoration: none;
   border-radius: 5px;
+  left: 50%;
+  top: 50%;
+  z-index: 2;
+  transition: background-color 0.3s ease; /* Weiche Farbänderung beim Hover */
+  cursor: pointer; /* Zeigt einen Cursor, um die Klickbarkeit anzuzeigen */
+
 }
 
+
+/* Container für den Button */
+.profile-container {
+  position: relative;
+  text-align: center;
+  z-index: 1; /* Damit es vor dem Hintergrundbild bleibt */
+  pointer-events: aouto;
+}
+
+/* Button */
+/*
+.profile-container .profile-button {
+  display: inline-block;
+  padding: 15px 30px; 
+  background-color: #3F51B5; 
+  color: white;
+  text-decoration: none;
+  font-size: 18px; 
+  font-weight: bold;
+  border-radius: 5px;
+  margin-top: 20px; 
+  transition: background-color 0.3s ease; 
+  position: absolute; 
+  left: 50%; 
+  top: 50%;  
+  transform: translate(-50%, -50%);  
+}
+*/
+.profile-container .profile-button:hover {
+  background-color: #303f9f; /* Dunklere Farbe beim Hover */
+}
+
+.placeholder {
+  height: 100vh;
+}

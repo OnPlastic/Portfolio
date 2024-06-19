@@ -6,31 +6,60 @@ hide:
 ---
 
 <div class="full-width-background">
-  <div class="profile-container">
-    <a href="your-button-link" class="profile-button">Button Text</a>
-  </div>
+  
 </div>
+<div class="profile-container">
+    <a href="#hans_muster" class="profile-button" onclick="console.log('Button clicked')" style="transform: translate(calc(-50% + 380px), calc(-50% + 40px));">Get in Kontakt</a>
+</div>
+<div class="placeholder"></div>
 
-# Welcome to MkDocs
+# Hans Muster {#hans_muster}
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Persönlicher Steckbrief
 
-## Commands
+- **Name**: Hans Muster
+- **Alter**: 40 Jahre
+- **Geschlecht**: Männlich
+- **Familienstand**: Ledig
+- **Geburtsort**: Lauf
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Persönliche Daten
 
-## Project layout
+- **Geburtsdatum**: (Anonymisiert)
+- **Wohnort**: (Anonymisiert)
+- **Kontakt**: (Anonymisiert)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Ausbildungsstand
 
-## Just another Title
+- **Fachhochschulreife**
+- **Zimmerer Ausbildung**
+- **Ausbildung zum Fachinformatiker**
 
-12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
-## Just another Title
-## Just another Title
+## Hobbies und soziales Engagement
+
+- **Hobbies**:
+  - Mountainbiken
+  - Bergsteigen
+  - Klettern
+
+- **Soziales Engagement**:
+  - Mitglied der freiwilligen Feuerwehr
+  - Zweiter Kommandant und Jugendausbilder bei der freiwilligen Feuerwehr
+
+## Praxis und Fähigkeiten
+
+- **Programmiersprachen und Tools**:
+  - Python
+  - Numpy
+  - C#
+  - Linux
+
+- **Berufliche Erfahrung**:
+  - Mehrjährige Erfahrung als Zimmerer
+  - Umfangreiche Erfahrung als Fachinformatiker
+
+## Kontakt
+
+- **Email**: [Hier Ihre Email einfügen]
+- **LinkedIn**: [Hier Ihren LinkedIn-Profil-Link einfügen]
+- **GitHub**: [Hier Ihren GitHub-Profil-Link einfügen]
