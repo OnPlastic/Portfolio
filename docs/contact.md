@@ -4,19 +4,20 @@ icon: octicons/mail-16
 
 # Kontakt :writing_hand:
 
-If you have any questions or would like to get in touch, please use the contact form below. 
+Wenn Sie Fragen haben, oder einfach mit mir in Kontakt treten möchten, 
+steht Ihnen mein Kontaktformular zur Verfügung. 
 
 <form 
     action="https://formspree.io/f/xzbnnywk" method="POST" class="contact-form"
 >
-  <label for="name">Your Name:</label>
+  <label for="name">Ihr Name:</label>
   <input type="text" id="name" name="name" placeholder="Max Mustermann" required>
 
-  <label for="email">Your Email:</label>
+  <label for="email">Ihre Emailadresse:</label>
   <input type="email" id="email" name="email" placeholder="max.mustermann@example.com" required>
 
-  <label for="message">Your Message:</label>
-  <textarea id="message" name="message" placeholder="Enter your message here..." rows="5" required></textarea>
+  <label for="message">Nachricht für mich:</label>
+  <textarea id="message" name="message" placeholder="Geben Sie hier Ihren Text ein..." rows="5" required></textarea>
 
-  <button type="submit">Send</button>
+  <button type="submit">Abschicken</button>
 </form>
