@@ -71,4 +71,5 @@ repo_url: https://github.com/OnPlastic/Portfolio
 repo_name: GitHub/Portfolio
 extra_css:
   - css/extra.css
+  - stylesheets/extra.css
   

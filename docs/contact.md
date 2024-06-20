@@ -2,7 +2,7 @@
 icon: octicons/mail-16
 ---
 
-# Contact :writing_hand:
+# Kontakt :writing_hand:
 
 If you have any questions or would like to get in touch, please use the contact form below. 
 
