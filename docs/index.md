@@ -9,11 +9,18 @@ hide:
 
 <div class="full-width-background"></div>
 <div class="profile-container">
-    <a href="#hans_muster" class="profile-button" onclick="console.log('Button clicked')" style="transform: translate(calc(-50% + 455px), calc(-50% + 190px));">Mein Portfolio</a>
+    <a href="#hans_muster" class="profile-button" onclick="console.log('Button clicked')" style="transform: translate(calc(-50% + 455px), calc(-50% + 190px));">About Me</a>
 </div>
 <div class="placeholder"></div>
 
-# Hans Muster {#hans_muster}
+Willkommen auf meiner Homepage.
+
+# Hi, mein Name ist __Hans Muster__ {#hans_muster}
+
+Ich befinde mich auf der Zielgeraden zur IHK Abschlussprüfung Fachinformatiker-Anwendungsentwiklung und   
+bin schon gespannt auf die nächsten Herausforderungen die das Leben als Softwareentwickler bereit hält.
+
+"Eine Kurve ist nicht das Ende der Straße... Es sei denn, Sie biegen nicht ab. Zitat:Hellen Keller
 
 ## Persönlicher Steckbrief
 
@@ -27,24 +34,13 @@ hide:
 
 - **Geburtsdatum**: (Anonymisiert)
 - **Wohnort**: (Anonymisiert)
-- **Kontakt**: (Anonymisiert)
+[Kontaktformular :fontawesome-solid-paper-plane](contact.md){ .md-button }
 
 ## Ausbildungsstand
 
-- **Fachhochschulreife**
-- **Zimmerer Ausbildung**
 - **Ausbildung zum Fachinformatiker**
-
-## Hobbies und soziales Engagement
-
-- **Hobbies**:
-  - Mountainbiken
-  - Bergsteigen
-  - Klettern
-
-- **Soziales Engagement**:
-  - Mitglied der freiwilligen Feuerwehr
-  - Zweiter Kommandant und Jugendausbilder bei der freiwilligen Feuerwehr
+- **Zimmerer Ausbildung**
+- **Fachhochschulreife**
 
 ## Praxis und Fähigkeiten
 
@@ -57,6 +53,19 @@ hide:
 - **Berufliche Erfahrung**:
   - Mehrjährige Erfahrung als Zimmerer
   - Umfangreiche Erfahrung als Fachinformatiker
+
+## Hobbies und soziales Engagement
+
+- **Hobbies**:
+  - Mountainbiken
+  - Bergsteigen
+  - Klettern
+
+- **Soziales Engagement**:
+  - Mitglied der freiwilligen Feuerwehr
+  - Zweiter Kommandant und Jugendausbilder bei der freiwilligen Feuerwehr
+
+
 
 ## Kontakt
 

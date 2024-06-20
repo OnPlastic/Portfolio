@@ -12,9 +12,9 @@ Deutschland
 
 ## Kontakt
 
-If you would like to get in touch, please use my
+Wenn Sie mit mir in Kontakt treten möchten, steht Ihnen mein Kontaktformular zur Verfügung.
 
-[Contact Form](contact.md){.md-button}  
+[Kontaktformular :fontawesome-solid-paper-plane ](contact.md){.md-button}  
 Tank You!
 !!! abstract ""
     ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
