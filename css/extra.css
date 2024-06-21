@@ -84,11 +84,11 @@ form.contact-form button {
 }
 
 .placeholder {
-  height: 90vh;
+  height: 80vh;
 }
 
 /* Media Queries für mobile Geräte */
-@media (max-width: 768px){
+@media (max-width: 1024px){
   .profile-container .profile-button {
     display: none; /* Blende den Button auf mobilen Geräten aus */
   }
