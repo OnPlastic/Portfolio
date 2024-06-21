@@ -72,7 +72,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/OnPlastic/Portfolio
       name: OnPlastic @GitHub
-copyright: Copyright &copy; 2024 On Plastic | <a href="#__consent">Cookie Settings</a> 
+copyright: Copyright &copy; 2024 On Plastic | <a href="#__consent">Cookie Settings</a> | <a href="/Portfolio/impressum">Impressum</a> | <a href="/Portfolio/datenschutzerklaerung">Datenschutzerklärung</a>
 repo_url: https://github.com/OnPlastic/Portfolio
 repo_name: GitHub/Portfolio
 extra_css:
