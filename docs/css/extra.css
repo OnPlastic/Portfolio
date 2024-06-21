@@ -84,24 +84,12 @@ form.contact-form button {
 }
 
 .placeholder {
-  height: 100vh;
+  height: 90vh;
 }
 
 /* Media Queries für mobile Geräte */
-@media (max-width: 768px) {
+@media (max-width: 768px) and (orientation: portrait) {
   .profile-container .profile-button {
-    font-size: 18px; /* Kleinere Schriftgröße für mobile Geräte */
-    padding: 10px 20px;
-    top: auto; /* Entferne die feste Positionierung */
-    bottom: 20px; /* Positioniere den Button am unteren Rand */
-    transform: translateX(-50%);
-  }
-  
-  .full-width-background {
-    height: auto; /* Ermögliche automatische Höhe auf kleinen Bildschirmen */
-  }
-
-  .placeholder {
-    height: 50vh; /* Verringere die Höhe des Platzhalters auf mobilen Geräten */
+    display: none; /* Blende den Button auf mobilen Geräten im Hochformat aus */
   }
 }
