@@ -19,6 +19,7 @@ theme:
     - navigation.footer
     - toc.follow
   palette:
+    - primary: light blue
     # Palette toggle for light mode
     - scheme: default
       toggle:
