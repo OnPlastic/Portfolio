@@ -22,8 +22,8 @@ theme:
 
     # Palette toggle for light mode
     - scheme: default
-      primary: blue
-      accent: indigo
+      primary: indigo
+      accent: blue
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
