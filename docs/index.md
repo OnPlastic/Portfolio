@@ -15,7 +15,8 @@ hide:
 
 Willkommen auf meiner Homepage {#hans_muster}
 ---
-# Hi, mein Name ist __Hans Muster__ :man_technologist:
+
+# Hi, mein Name ist __Hans Muster__
 
 
 Ich befinde mich auf der Zielgeraden zur IHK Abschlussprüfung Fachinformatiker-Anwendungsentwicklung und   
@@ -38,7 +39,7 @@ bin schon gespannt auf die nächsten Herausforderungen die das Leben als Softwar
       ---
       [Kontaktformular :fontawesome-solid-paper-plane:](contact.md){ .md-button }
 </div>
-## Ausbildungsstand :student:
+## <u>Ausbildungsstand</u>
 ---
 
 <div class="grid cards" markdown>
@@ -49,11 +50,12 @@ bin schon gespannt auf die nächsten Herausforderungen die das Leben als Softwar
 
 </div>
 
-## Praxis und Fähigkeiten
+## <u>Praxis und Fähigkeiten</u>
 
 **Programmiersprachen und Tools**:
 
   - Umfangreiche Erfahrung als Fachinformatiker
+  - Codingskills durch Projekte und Tasks
 
 <div class="grid cards" markdown>
 
@@ -113,19 +115,23 @@ bin schon gespannt auf die nächsten Herausforderungen die das Leben als Softwar
   - Verschiedene Projekt und Coding Tasks :octicons-arrow-right-24: Beispiele auf [:simple-github:](https://github.com/OnPlastic/Portfolio)
   - Mehrjährige Erfahrung als Zimmerer
 
-## Hobbies und soziales Engagement
+## <u>Hobbies und soziales Engagement</u>
 
+<div class="grid cards" markdown>
 - **Hobbies**:
-  - Mountainbiken
-  - Bergsteigen
-  - Klettern
-
+    - Mountainbiken
+    - Bergsteigen
+    - Klettern
 - **Soziales Engagement**:
-  - Mitglied der freiwilligen Feuerwehr
-  - Zweiter Kommandant und Jugendausbilder bei der freiwilligen Feuerwehr
-
+    - Mitglied der freiwilligen Feuerwehr Ahorntal,  
+      zweiter Kommandant und Jugendausbilder bei der Feuerwehr
+</div>
 
 
 ## Kontakt
+
+Vorname, Nachname  
+Straße, Hausnummer  
+Postleitzahl, Ort
 
 [Kontaktformular :fontawesome-solid-paper-plane:](contact.md){ .md-button }
