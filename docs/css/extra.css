@@ -88,8 +88,8 @@ form.contact-form button {
 }
 
 /* Media Queries für mobile Geräte */
-@media (max-width: 768px) and (orientation: portrait) and (orientation: landscape) {
+@media (max-width: 768px){
   .profile-container .profile-button {
-    display: none; /* Blende den Button auf mobilen Geräten im Hochformat aus */
+    display: none; /* Blende den Button auf mobilen Geräten aus */
   }
 }
