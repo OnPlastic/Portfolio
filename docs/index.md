@@ -7,6 +7,20 @@ hide:
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
 
+<script>
+    document.addEventListener("DOMContentLoaded", async function () {
+        const auth0 = await createAuth0Client({
+            domain: 'YOUR_DOMAIN',
+            client_id: 'YOUR_CLIENT_ID'
+        });
+
+        const isAuthenticated = await auth0.isAuthenticated();
+        if (!isAuthenticated) {
+            window.location.href = 'login.html';
+        }
+    });
+</script>
+
 <div class="full-width-background"></div>
 <div class="profile-container">
     <a href="#hans_muster" class="profile-button" onclick="console.log('Button clicked')" style="transform: translate(calc(-50% + 455px), calc(-50% + 190px));">About Me</a>
