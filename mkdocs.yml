@@ -59,6 +59,8 @@ markdown_extensions:
         custom_icons:
           -overrides/.icons
 extra:
+  include_dir:
+    - docs
   consent:
     actions:
       - accept
