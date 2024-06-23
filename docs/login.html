@@ -9,16 +9,28 @@
     <h1>Herzlich willkommen!</h1>
     <button id="login">Login with Email</button>
     <script>
-        document.getElementById('login').addEventListener('click', async () => {
+        const initAuth0 = async () => {
             const auth0 = await createAuth0Client({
                 domain: 'dev-ui6ntlnkvcb0l503.eu.auth0.com',
                 client_id: 'cubDeQFTlzV1SnmUM01zsd5Hlj5JKtmc'
             });
-            await auth0.loginWithRedirect({
-                redirect_uri: window.location.origin,
-                connection: 'email'
+
+            document.getElementById('login').addEventListener('click', async () => {
+                await auth0.loginWithRedirect({
+                    redirect_uri: window.location.origin,
+                    connection: 'email'
+                });
             });
-        });
+
+            window.onload = async () => {
+                const isAuthenticated = await auth0.isAuthenticated();
+                if (isAuthenticated) {
+                    window.location.href = 'index.html';
+                }
+            };
+        };
+
+        initAuth0();
     </script>
 </body>
 </html>

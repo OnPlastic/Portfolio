@@ -59,8 +59,6 @@ markdown_extensions:
         custom_icons:
           -overrides/.icons
 extra:
-  include_dir:
-    - docs
   consent:
     actions:
       - accept
@@ -85,4 +83,6 @@ repo_name: GitHub/Portfolio
 extra_css:
   - css/extra.css
   - stylesheets/extra.css
+extra_javascript:
+  - auth.js
   
