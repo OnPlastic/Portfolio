@@ -1,8 +1,6 @@
 ---
 comments: true
 ---
-<!-- markdownlint-disable MD033 -->
-<!-- markdownlint-disable MD041 -->
 
 # Page title
 
@@ -52,7 +50,6 @@ comments: true
     Material for MkDocs is licensed under MIT and available on [GitHub]
 
     [:octicons-arrow-right-24: License](#)
-
 
 <!-- Dies ist ein Kommentar -->
 

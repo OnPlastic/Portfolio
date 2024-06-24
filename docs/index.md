@@ -4,19 +4,18 @@ hide:
   - toc
   - path
 ---
-<!-- markdownlint-disable MD033 -->
-<!-- markdownlint-disable MD041 -->
 
 <div class="full-width-background"></div>
 <div class="profile-container">
-    <a href="#hans_muster" class="profile-button" onclick="console.log('Button clicked')" style="transform: translate(calc(-50% + 455px), calc(-50% + 190px));">About Me</a>
+    <a href="#hans_muster" class="profile-button" onclick="console.log('Button clicked')"
+    style="transform: translate(calc(-50% + 455px), calc(-50% + 190px));">About Me</a>
 </div>
 <div class="placeholder"></div>
 
 Willkommen auf meiner Homepage {#hans_muster}
 ---
 
-# Servus, mein Name ist __Hans Muster__  
+# Servus, mein Name ist __Hans Muster__
 
 Ich befinde mich auf der Zielgeraden zur IHK Abschlussprüfung Fachinformatiker-Anwendungsentwicklung und  
 bin schon gespannt auf die nächsten Herausforderungen die das Leben als Softwareentwickler bereit hält.
@@ -61,7 +60,8 @@ __Programmiersprachen und Tools__:
 
     ---
 
-    Python ist eine vielseitige Programmiersprache, die durch ihre Syntax, umfangreiche Standardbibliothek und breite Anwendbarkeit im Bereich Datenanalyse, künstliche Intelligenz und Automatisierung besticht.
+    Python ist eine vielseitige Programmiersprache, die durch ihre Syntax, umfangreiche Standardbibliothek
+    und breite Anwendbarkeit im Bereich Datenanalyse, künstliche Intelligenz und Automatisierung besticht.
 
     [:octicons-arrow-right-24:](#)
 
