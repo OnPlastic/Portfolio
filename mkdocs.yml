@@ -19,7 +19,6 @@ theme:
     - navigation.footer
     - toc.follow
   palette:
-
     # Palette toggle for light mode
     - scheme: default
       primary: indigo
@@ -83,6 +82,4 @@ repo_name: GitHub/Portfolio
 extra_css:
   - css/extra.css
   - stylesheets/extra.css
-extra_javascript:
-  - auth.js
   

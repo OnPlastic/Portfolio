@@ -16,16 +16,14 @@ hide:
 Willkommen auf meiner Homepage {#hans_muster}
 ---
 
-# Hi, mein Name ist __Hans Muster__
+# Servus, mein Name ist __Hans Muster__  
 
-
-Ich befinde mich auf der Zielgeraden zur IHK Abschlussprüfung Fachinformatiker-Anwendungsentwicklung und   
+Ich befinde mich auf der Zielgeraden zur IHK Abschlussprüfung Fachinformatiker-Anwendungsentwicklung und  
 bin schon gespannt auf die nächsten Herausforderungen die das Leben als Softwareentwickler bereit hält.
 
 `"Eine Kurve ist nicht das Ende der Straße... Es sei denn, Sie biegen nicht ab."`[^2]
 ---
 [^2]: Zitat: Hellen Keller
-
 
 <div class="grid cards" markdown>
 - !!! abstract "Persönlicher Steckbrief"
@@ -52,14 +50,14 @@ bin schon gespannt auf die nächsten Herausforderungen die das Leben als Softwar
 
 ## <u>Praxis und Fähigkeiten</u>
 
-**Programmiersprachen und Tools**:
+__Programmiersprachen und Tools__:
 
-  - Umfangreiche Erfahrung als Fachinformatiker
-  - Codingskills durch Projekte und Tasks
+- Umfangreiche Erfahrung als Fachinformatiker
+- Codingskills durch Projekte und Tasks
 
 <div class="grid cards" markdown>
 
--   :simple-python:{ .lg .middle } __Python__
+- :simple-python:{ .lg .middle } __Python__
 
     ---
 
@@ -67,7 +65,7 @@ bin schon gespannt auf die nächsten Herausforderungen die das Leben als Softwar
 
     [:octicons-arrow-right-24:](#)
 
--   :simple-pandas:{ .lg .middle } __Pandas__
+- :simple-pandas:{ .lg .middle } __Pandas__
 
     ---
 
@@ -75,7 +73,7 @@ bin schon gespannt auf die nächsten Herausforderungen die das Leben als Softwar
 
     [:octicons-arrow-right-24:](#)
 
--   :simple-numpy:{ .lg .middle } __NumPy__
+- :simple-numpy:{ .lg .middle } __NumPy__
 
     ---
 
@@ -83,8 +81,7 @@ bin schon gespannt auf die nächsten Herausforderungen die das Leben als Softwar
 
     [:octicons-arrow-right-24:](#)
 
-
--   :simple-tensorflow:{ .lg .middle } __TensorFlow__
+- :simple-tensorflow:{ .lg .middle } __TensorFlow__
 
     ---
 
@@ -92,7 +89,7 @@ bin schon gespannt auf die nächsten Herausforderungen die das Leben als Softwar
 
     [:octicons-arrow-right-24:](#)
 
--   :simple-keras:{ .lg .middle } __Keras__
+- :simple-keras:{ .lg .middle } __Keras__
 
     ---
 
@@ -100,20 +97,21 @@ bin schon gespannt auf die nächsten Herausforderungen die das Leben als Softwar
 
     [:octicons-arrow-right-24:](#)
 
--   :material-language-markdown-outline:{ .lg .middle } __Markdown__
+- :material-language-markdown-outline:{ .lg .middle } __Markdown__
 
     ---
 
     Markup-Sprache für einfache und lesbares Plaintext-Formationen bei der Erstellung von Dokumentationen.
 
     [:octicons-arrow-right-24:](#)
+
 </div>
 
 ---
-**Berufliche Erfahrung**:
+__Berufliche Erfahrung__:
 
-  - Verschiedene Projekt und Coding Tasks :octicons-arrow-right-24: Beispiele auf [:simple-github:](https://github.com/OnPlastic/Portfolio)
-  - Mehrjährige Erfahrung als Zimmerer
+- Verschiedene Projekt und Coding Tasks :octicons-arrow-right-24: Beispiele auf [:simple-github:](https://github.com/OnPlastic/Portfolio)
+- Mehrjährige Erfahrung als Zimmerer
 
 ## <u>Hobbies und soziales Engagement</u>
 
@@ -126,7 +124,6 @@ bin schon gespannt auf die nächsten Herausforderungen die das Leben als Softwar
     - Mitglied der freiwilligen Feuerwehr Ahorntal,  
       zweiter Kommandant und Jugendausbilder bei der Feuerwehr
 </div>
-
 
 ## Kontakt
 
