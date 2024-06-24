@@ -41,7 +41,6 @@ nav:
   - Datenschutzerklärung: datenschutzerklaerung.md
 plugins:
   - search
-
 markdown_extensions:
   - footnotes
   - pymdownx.details
