@@ -106,4 +106,4 @@ Erstellen Sie Tabellen mit Bindestrichen und Pipes.
 
 Das war eine kurze Einführung in Markdown.
 
-Speichern diese Datei mit der Endung `.md`, zum Beispiel `beispiel.md`, und öffnen Sie
+Speichern diese Datei mit der Endung `.md`, zum Beispiel `beispiel.md`
