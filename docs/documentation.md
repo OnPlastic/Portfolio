@@ -2,7 +2,9 @@
 comments: true
 ---
 
-# Page title
+# Projektarbeit ONE-Pager
+
+![ONE-Pager](images/One-Pager.png)
 
 <div class="grid cards" markdown>
 :fontawesome-brands-html5: HTML for content and structure
@@ -53,4 +55,4 @@ comments: true
 
 <!-- Dies ist ein Kommentar -->
 
-<u>unterstrichener Text</u>
+<u>...weitere Bearbeitung folgt.</u>
