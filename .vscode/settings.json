@@ -1,4 +1,17 @@
 {
-    "python.pythonPath": "${workspaceFolder}/venv/Scripts/python.exe"
-  }
+  "python.pythonPath": "${workspaceFolder}/venv/Scripts/python.exe",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell",
+      "args": [
+        "-noexit",
+        "-command",
+        "if (Test-Path -Path .\\venv\\Scripts\\Activate.ps1) { .\\venv\\Scripts\\Activate.ps1 }"
+      ]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell"
+}
+
   
