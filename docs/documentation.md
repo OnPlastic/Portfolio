@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# Projektarbeit ONE-Pager
+# Projektarbeit ONE-Pager "Dokumentation"
 
 ![ONE-Pager](images/One-Pager.png)
 
