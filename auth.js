@@ -1,8 +1,8 @@
 // auth.js
 document.addEventListener("DOMContentLoaded", async () => {
   const auth0 = await createAuth0Client({
-    domain: 'YOUR_DOMAIN',
-    client_id: 'YOUR_CLIENT_ID',
+    domain: 'dev-ui6ntlnkvcb0l503.eu.auth0.com',
+    client_id: 'z2Ajp97sTYXnAzu8N4tAZc5heSbJnvrY',
     redirect_uri: window.location.origin
   });
 
